@@ -1,5 +1,5 @@
 # mp01
-prueba_programacion_distribuida
+Prueba Programacion Distribuida
 
 Crear una aplicación que permita realizar el CRUD de la base datos
 1. Componente(s) de negocio CDI para los servicios
