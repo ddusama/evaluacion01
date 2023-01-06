@@ -1,5 +1,6 @@
 # mp01
 prueba_programacion_distribuida
+
 Crear una aplicación que permita realizar el CRUD de la base datos
 1. Componente(s) de negocio CDI para los servicios
 2. Componente(s) REST para el acceso remoto
